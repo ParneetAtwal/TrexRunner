@@ -1,2 +1,2 @@
 # TrexRunner
-Trex Runner game
+This game has been designed by student
